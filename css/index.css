@@ -55,3 +55,11 @@ footer a {
 footer p {
   font-weight: 500;
 }
+
+/*Responsive*/
+
+@media (max-width: 992px) {
+  footer {
+    position: unset !important;
+  }
+}
